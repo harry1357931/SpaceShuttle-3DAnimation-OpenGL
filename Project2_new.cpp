@@ -1,6 +1,6 @@
-
 /* 
   Project 2 -- Peripheral Drift Illusion
+  This project is different from Space Shuttle 3D animation project.
   CSCI 368 (Computer Graphics)
   Prof. Xiang
   Summer 2, 2012    

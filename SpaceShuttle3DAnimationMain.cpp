@@ -10,9 +10,6 @@
  *	   2) Then, Shuttle seperates out from Solid Boosters and Main tank
  *	   3) After that, Shuttle Rotates and Moves near the planets
  *
- *  Dumb8QueenProblem -- Using backtracking, 2D array to represent the board
- *  Dumb_8_queens.cpp
- *           
  *  Input Format: 
  *      No Input is required, just run the program and have fun
  *

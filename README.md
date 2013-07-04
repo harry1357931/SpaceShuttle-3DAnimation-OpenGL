@@ -19,3 +19,17 @@ then shuttle gets seperated from its Solid boosters, then shuttle move close to 
 You can view shuttle from different angles by selecting some keys. You will find instructions on those keys,
 once you will run the program
 
+More about this Project:
+========================
+Class: CS 368, Computer Graphics -- My First Graphics Class
+Main Project: Space Shuttle 3D Animation- I Used lot of Geometry in this project
+
+Files & Directories related to above Project:
+1) SpaceShuttle3DAnimationMain.cpp   -- File (Contains Code)
+2) Project4                         -- Directory
+3) Required GL Files               -- Directory
+4) All Images                    -- Snapshots of Project
+5) For more, Check the comments in file 'SpaceShuttle3DAnimationMain.cpp'
+6) For even more, contact me via email
+
+
